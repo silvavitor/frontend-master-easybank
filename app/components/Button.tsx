@@ -14,7 +14,7 @@ export default function Button({ text }: ButtonProps) {
         bg-gradient-to-r
         from-[--lime-green]
         to-[--bright-cyan]
-        hover:opacity-60
+        active:opacity-60
         transition 
         ease-linear
       "
