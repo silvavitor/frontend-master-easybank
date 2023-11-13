@@ -11,6 +11,7 @@ export default function WhyUs() {
       <div className="
         px-9
         py-14
+        pt-20
         max-w-7xl 
         m-auto
       ">
