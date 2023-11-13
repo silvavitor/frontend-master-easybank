@@ -29,7 +29,7 @@ export default function Header() {
   return (
     <header className="bg-[--very-light-gray]">
       <nav className="
-        px-6
+        px-9
         h-24
         flex
         justify-between
