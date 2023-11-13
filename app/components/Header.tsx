@@ -29,7 +29,8 @@ export default function Header() {
   return (
     <header>
       <nav className="
-        p-6
+        px-6
+        h-24
         flex
         justify-between
         items-center
