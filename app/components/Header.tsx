@@ -27,14 +27,15 @@ export default function Header() {
   }
 
   return (
-    <header>
+    <header className="bg-[--very-light-gray]">
       <nav className="
         px-6
         h-24
         flex
         justify-between
         items-center
-        bg-[--very-light-gray]
+        max-w-7xl
+        m-auto
         z-10
       ">
         <Image src={logo} alt="Logo" />
