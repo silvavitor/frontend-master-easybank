@@ -6,7 +6,7 @@ export default function MobileMenuOpen({ pages }: MobileMenuOpenProps) {
   return (
     <div className="
       md:hidden
-      fixed
+      absolute
       z-20
       bg-gradient-to-b
       from-[--dark-blue]
