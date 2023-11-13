@@ -31,8 +31,8 @@ export default function WhyUs() {
         <div className="
           mt-10 md:mt-14
           md:mb-12
-          flex 
-          flex-col md:flex-row
+          grid 
+          grid-cols-1 md:grid-cols-4
           gap-8
         ">
           <FeatureCard icon={online} title="Online Banking" text="Our modern web and mobile applications allow you to keep track of your finances wherever you are in the world." />
