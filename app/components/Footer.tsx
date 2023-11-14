@@ -14,6 +14,7 @@ export default function Footer() {
     <footer className="bg-[--dark-blue]">
       <div className="
         max-w-7xl
+        m-auto
         p-10
         flex
         flex-col
